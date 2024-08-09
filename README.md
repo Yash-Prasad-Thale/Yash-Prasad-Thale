@@ -6,7 +6,7 @@
 -     2. Computer Architecture/Organuzaion and design/Computer hardware.
        
 - 🌱 I’m currently learning Python, Java, C#, DSA in C++.
-- 💞️ I’m looking to collaborate on ...
+- 💞️ I’m looking to collaborate on Anything that can make more knowlegable.
 - 📫 - Here are My contact details:
        1. My Linked In profile: https://www.linkedin.com/in/yash-thale6701/
 - 😄 Pronouns: ...
