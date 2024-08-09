@@ -6,8 +6,8 @@
 -     My hobbies in context of IT industry:
 -     1. Blender 3D/Graphics Design overall.
 -     2. Computer Architecture/Organuzaion and design/Computer hardware.
--     
-- 🌱 I’m currently learning Python, Java, C#/ASP.NET framework.
+       
+- 🌱 I’m currently learning Python, Java, C#, DSA in C++.
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
 - 😄 Pronouns: ...
