@@ -13,7 +13,8 @@
 - 💞️ I’m looking to collaborate on Anything that can make me more knowlegable.
 
 - 📫 - My contact details:
-       1. My Linked In profile: https://www.linkedin.com/in/yash-thale6701/
+
+1. My Linked In profile: https://www.linkedin.com/in/yash-thale6701/
        
 2. My email id: ypthale@gmail.com
        
