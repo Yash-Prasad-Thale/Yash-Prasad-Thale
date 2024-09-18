@@ -14,8 +14,10 @@
 
 - 📫 - My contact details:
        1. My Linked In profile: https://www.linkedin.com/in/yash-thale6701/
-       2. My email id: ypthale@gmail.com
-       3. Phone: +918369604125 { call me only if it's something urgent. }
+       
+2. My email id: ypthale@gmail.com
+       
+3. Phone: +918369604125 { call me only if it's something urgent. }
 
 - 😄 Pronouns: ...
 - ⚡ Fun fact: Stay Hungry, Stay Foolish! - credits to the orignal writer.
