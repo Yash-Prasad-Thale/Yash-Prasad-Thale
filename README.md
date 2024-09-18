@@ -5,7 +5,7 @@
 -     1. Blender 3D/Graphics Design overall.
 -     2. Computer Architecture/Organuzaion and design/Computer hardware.
        
-- 🌱 I’m currently learning Python, Java, C#, DSA in C++.
+- 🌱 I’m currently learning Python, Java, C#, DSA in python for college and to get a kindof clear understanding.
 - 💞️ I’m looking to collaborate on Anything that can make more knowlegable.
 - 📫 - Here are My contact details:
        1. My Linked In profile: https://www.linkedin.com/in/yash-thale6701/
